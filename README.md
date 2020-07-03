@@ -4,4 +4,7 @@
 
 I love creating __beautiful and modern__ apps to try to make the world a better place
 
-> Feel free to check out my work here or visit my personal portofio at https://seergs.github.io/portfolio/
+> Feel free to check out my side projects here or visit my personal portofio at https://seergs.github.io/portfolio/
+
+## Companies I've worked with
+- Cisco Systems
