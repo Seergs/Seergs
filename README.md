@@ -2,7 +2,7 @@
 
 #### I'm a Web Developer and computer engineer 💻 student at UDG
 
-I love creating __beautiful and modern__ apps focusing on the functionality
+I love creating __beautiful and modern__ apps focusing on the functionality and pixel perfect design
 
 My current stack is __ReactJS, Express__ and __PostgreSQL__ ✨ but I'm open to opportunities to work with any other technology
 
