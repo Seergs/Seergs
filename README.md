@@ -2,7 +2,7 @@
 
 ![counter](https://eni83qn191s858f.m.pipedream.net)
 
-#### I'm a Web Developer and computer engineer 💻 student at UDG
+#### I'm a Software Engineer 💻 student
 
 I love creating __beautiful and modern__ apps focusing on the functionality and pixel perfect design
 
