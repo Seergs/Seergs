@@ -2,10 +2,8 @@
 
 ![counter](https://eni83qn191s858f.m.pipedream.net)
 
-#### I'm a Software Engineer 💻 student
+#### I'm a Software Engineer 💻 who loves learning
 
-I love creating __beautiful and modern__ apps focusing on the functionality and pixel perfect design
+Currently focused on my job @IBM
 
-My current stack is __React / Next JS, Express & GraphQL__ and __PostgreSQL__ ✨ but I'm open to opportunities to work with any other technology
-
-😉 Feel free to check out my side projects here or visit my personal portofio at https://sergiosuarez.me
+[![Seergs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seergs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
