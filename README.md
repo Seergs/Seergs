@@ -1,9 +1,15 @@
-### Hi there 👋
+# Sergio Suarez
 
-![counter](https://eni83qn191s858f.m.pipedream.net)
+Platform & DevOps Engineer at [Backbase](https://backbase.com)  
+Guadalajara, México
 
-#### I'm a Software Engineer 💻 who loves learning
+---
 
-Currently focused on my job @Backbase
+Currently building internal developer platforms and maintaining production-grade infrastructure.  
+Interested in Kubernetes, GitOps, observability, and developer experience.
 
-[![Seergs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seergs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+**Stack I work with daily:** Go · Python · Kubernetes · Terraform · CI/CD
+
+---
+
+[sergiosuarez.dev](https://sergiosuarez.dev) · [LinkedIn](https://linkedin.com/in/seergs)
